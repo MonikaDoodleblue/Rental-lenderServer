@@ -1,0 +1,57 @@
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to delete","path":"DELETE /lender/deleteOrder/1","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/1","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/1","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/1","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchUserManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchUserManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchUserManagement","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to login","path":"POST /lender/login","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to login","path":"POST /lender/login","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to login","path":"POST /lender/login","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to login","path":"POST /lender/login","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getCategory","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getCategory","service":"rentalManagement"}
+{"level":"error","message":"order not found","path":"DELETE /lender/deleteOrder/44","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myrentals","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myrentals","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myrentals","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myList","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myList","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myList","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myList","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myList","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/myList","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /lender/getRent","service":"rentalManagement"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /lender/createProduct","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/44","service":"rentalManagement"}
